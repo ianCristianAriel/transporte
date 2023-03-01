@@ -20,7 +20,7 @@ Dentro del primer grupo, que contiene 5 tablas se almacena:
 - Horas en las que viaja un determinado pasajero
 
 ### Tecnologias utilizadas:
-SQL ->** MySQL**
+SQL -> ** MySQL**
 ### Estado del proyecto:
 Finalizado
 ### Desarrolladores:
