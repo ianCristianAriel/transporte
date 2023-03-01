@@ -9,8 +9,9 @@ Dentro del primer grupo, que contiene 5 tablas se almacena:
 **"viaje"** el identificador, el identificador del pasajero, el identificador del trayecto, la fecha de inicio del viaje y la fecha del fin del viaje.
 **"pasajeros"** el identificador, nombre y la fecha de nacimeinto del pasajero.
 ### Funcionalidades:
-**Relacionar informacion sobre:
-**
+
+**Relacionar informacion sobre:**
+
 - Trayectos mas realizados por los pasajeros
 - Viajes hechos por usuario
 - Fechas de viajes
@@ -23,7 +24,8 @@ SQL ->** MySQL**
 ### Estado del proyecto:
 Finalizado
 ### Desarrolladores:
-**@IanCristianYane
-**
+
+**@IanCristianYane**
+
 ### Licencia: 
 Platzi, Curso de PostgresSQL, Oswaldo Rodríguez González: https://platzi.com/cursos/postgresql/
